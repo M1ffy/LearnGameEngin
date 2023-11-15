@@ -1,0 +1,3 @@
+[submodule "UE_Projects/LoginRegister"]
+	path = UE_Projects/LoginRegister
+	url = https://github.com/M1ffy/LearnGameEngin.git
